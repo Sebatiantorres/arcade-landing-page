@@ -1,0 +1,8 @@
+.carousel-item {
+    height: 92vh !important;
+}
+
+#pacman {
+    height: 190px;
+    width: 300px;
+}
